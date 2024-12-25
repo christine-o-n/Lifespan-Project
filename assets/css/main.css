@@ -122,7 +122,8 @@ input, select, textarea {
 
 	strong, b {
 		color: #242526;
-		font-weight: 700;
+		font-weight: 600;
+		font-style: bold;
 	}
 
 	em, i {
@@ -134,14 +135,14 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #242526;
-		font-weight: 700;
+		color: #654321;
+		font-weight: 600;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: #242526;
+			color: #654321;
 			text-decoration: none;
 		}
 
